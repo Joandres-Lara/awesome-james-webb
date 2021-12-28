@@ -1,0 +1,27 @@
+{
+  "name": "awesome-jawes-webb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run start -w unofficial-james-webb-api-location"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joandres-Lara/awesome-james-webb.git"
+  },
+  "author": "Joan Andrés Lara Mora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joandres-Lara/awesome-james-webb/issues"
+  },
+  "homepage": "https://github.com/Joandres-Lara/awesome-james-webb#readme",
+  "workspaces": [
+    "packages\\unofficial-james-webb-api-location"
+  ],
+  "dependencies": {
+    "jest": "^27.4.5",
+    "jest-cli": "^27.4.5"
+  }
+}

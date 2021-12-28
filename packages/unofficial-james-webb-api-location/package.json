@@ -1,0 +1,20 @@
+{
+  "name": "unofficial-james-webb-api-location",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joandres-Lara/awesome-james-webb.git"
+  },
+  "author": "Joan Andrés Lara Mora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joandres-Lara/awesome-james-webb/issues"
+  },
+  "homepage": "https://github.com/Joandres-Lara/awesome-james-webb#readme"
+}
